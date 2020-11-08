@@ -5,7 +5,7 @@ layout: workshop      # DON'T CHANGE THIS.
 
 venue: "Distributed Privacy-Preserving Machine Learning Workshop (DPML)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "ICLR 2021"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
-humandate: "ICLR Workshop, May 08, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "May 08, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 
 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
