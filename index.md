@@ -277,14 +277,17 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 
 {% comment %}
-SURVEYS - DO NOT EDIT SURVEY LINKS
+Organizers 
 {% endcomment %}
 <h2 id="surveys">Organizers</h2>
 
 <hr/>
 
 
+
 {% comment %}
+PC Members
+{% endcomment %}
 <h2 id="surveys">PC Members</h2>
 
 <hr/>
