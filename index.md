@@ -72,8 +72,9 @@ the pitch.
 {% include lc/intro.html %}
 {% endif %}
 
-The scope of this workshops includes, but is not limited to:
-Special track: privacy of ML and data analytics in pandemic
+The focus of this workshop is to bring together researchers from industry and academia that focus on both distributed and private machine learning. These topics are of increasingly large commercial and policy interest. It is therefore important to build a community for this research area, which collaborating researchers that share insights, code, data, benchmarks, training pipelines, etc and together aim to advance distributed and private machine learning.The scope of this workshops includes, but is not limited to:
+
+<li> Special track: privacy of ML and data analytics in pandemic </li>
 Distributed Machine Learning
 Federated Learning and Split Learning
 Differential Privacy in Deep Learning
@@ -91,10 +92,6 @@ Policy and Compliance for Data Privacy
 Privacy applications in the real world ( including but not limited to Autonomous Systems, Social Networks)
 Interplay between privacy and adversarial robustness in machine learning
 Relations between privacy, fairness and transparency
-
-The focus of this workshop is to bring together researchers from industry and academia that focus on both distributed and private machine learning. These topics are of increasingly large commercial and policy interest. It is therefore important to build a community for this research area, which collaborating researchers that share insights, code, data, benchmarks, training pipelines, etc and together aim to advance distributed and private machine learning.
-
-
 
 
 
