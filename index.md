@@ -268,10 +268,6 @@ Sameer Wagh (Post-doc researcher, UC Berkeley)
 
 
 
-
-
-<hr/>
-
 {% comment %}
 SCHEDULE
 
