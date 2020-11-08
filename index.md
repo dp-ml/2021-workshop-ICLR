@@ -196,7 +196,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 <h2 id="surveys">Invited Speakers</h2>
 
-<h4 id="general">Invited Speakers</h4>
+<h3 id="general">Invited Speakers</h3>
 David Evans (University of Virginia)
 
 Lalitha Sankar (Associate Prof. ASU, Confirmed)
