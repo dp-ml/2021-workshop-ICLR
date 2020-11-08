@@ -246,7 +246,7 @@ CODE OF CONDUCT
 <h2 id="code-of-conduct">Code of Conduct</h2>
 
 <p>
-Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+Everyone who participates in this workshop is required to conform to the <a href="https://iclr.cc/public/CodeOfConduct">ICLR Code of Conduct</a>. 
 </p>
 
 <p class="text-center">
