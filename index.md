@@ -75,23 +75,23 @@ the pitch.
 The focus of this workshop is to bring together researchers from industry and academia that focus on both distributed and private machine learning. These topics are of increasingly large commercial and policy interest. It is therefore important to build a community for this research area, which collaborating researchers that share insights, code, data, benchmarks, training pipelines, etc and together aim to advance distributed and private machine learning.The scope of this workshops includes, but is not limited to:
 
 <li> Special track: privacy of ML and data analytics in pandemic </li>
-Distributed Machine Learning
-Federated Learning and Split Learning
-Differential Privacy in Deep Learning
-Privacy and security attacks (Model Inversion, Membership Inference etc.)
-Practical Considerations for Distributed Learning (Communication Efficiency, Compression)
-Model and data fingerprinting/watermarking methods
-Non i.i.d, sequential and online distributed learning
-Differential privacy and other statistical notions of privacy: theory, applications, and implementations
-Secure multi-party computation techniques for ML
-Learning on encrypted data
-Hardware-based approaches to privacy-preserving ML
-Trade-offs between privacy and utility
-Empirical and theoretical comparisons between different notions of privacy
-Policy and Compliance for Data Privacy
-Privacy applications in the real world ( including but not limited to Autonomous Systems, Social Networks)
-Interplay between privacy and adversarial robustness in machine learning
-Relations between privacy, fairness and transparency
+<li> Distributed Machine Learning </li>
+<li> Federated Learning and Split Learning</li>
+<li> Differential Privacy in Deep Learning</li>
+<li> Privacy and security attacks (Model Inversion, Membership Inference etc.)</li>
+<li> Practical Considerations for Distributed Learning (Communication Efficiency, Compression)</li>
+<li> Model and data fingerprinting/watermarking methods</li>
+<li> Non i.i.d, sequential and online distributed learning</li>
+<li> Differential privacy and other statistical notions of privacy: theory, applications, and implementations</li>
+<li> Secure multi-party computation techniques for ML</li>
+<li> Learning on encrypted data</li>
+<li> Hardware-based approaches to privacy-preserving ML</li>
+<li> Trade-offs between privacy and utility</li>
+<li> Empirical and theoretical comparisons between different notions of privacy</li>
+<li> Policy and Compliance for Data Privacy</li>
+<li> Privacy applications in the real world ( including but not limited to Autonomous Systems, Social Networks)</li>
+<li> Interplay between privacy and adversarial robustness in machine learning</li>
+<li> Relations between privacy, fairness and transparency</li>
 
 
 
