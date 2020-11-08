@@ -194,6 +194,8 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
+<h2 id="surveys">Invited Speakers</h2>
+
 
 {% comment %}
 Organizers 
