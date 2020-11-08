@@ -196,7 +196,6 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 
 <h2 id="surveys">Invited Speakers</h2>
 
-<h3 id="general">Invited Speakers</h3>
 David Evans (University of Virginia)
 
 Lalitha Sankar (Associate Prof. ASU, Confirmed)
@@ -205,11 +204,39 @@ Gauri Joshi (Carnegie Mellon University)
 
 Graham Cormode (University of Warwick)
 
+<hr/>
 
 {% comment %}
 Organizers 
 {% endcomment %}
 <h2 id="surveys">Organizers</h2>
+Gautam Kamath (University of Waterloo)
+Gauri Joshi (CMU)
+Ananda Theertha Suresh (Google)
+Reza Shokri (NUS) 
+Peter Kairouz (Google)
+Lalitha Sankar (ASU)
+Jalaj Upadhyay (Apple)
+Ling Liu (GaTech)
+Lin Zhong (Yale)
+Arya Mazumdar (UMass Amherst)  
+Konstantinos Chatzikokolakis (University of Athens)
+Vishnu Boddeti (Michigan State University)
+Mehdi Bennis (University of Oulu)
+Clément Canonne (University of Sydney)
+Hamed Haddadi (Imperial College London)
+Waheed Bajwa (Rutgers University)
+Fragkiskos Koufogiannis (Raytheon)
+Supriyo Chakraborty (IBM T.J. Watson Research Center)
+Vivek Sharma (MIT, Harvard, KIT)
+Fatemehsadat Mireshghallah (PhD Student, UCSD)
+Praneeth Vepakomma (PhD Student, MIT)
+Ayush Chopra (PhD Student, MIT)
+Eugene Bagdasaryan (PhD Student, Cornell)
+Sameer Wagh (Post-doc researcher, UC Berkeley)
+Abhishek Singh (PhD Student, MIT)
+
+
 
 <hr/>
 
