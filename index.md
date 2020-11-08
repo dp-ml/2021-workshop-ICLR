@@ -249,11 +249,7 @@ CODE OF CONDUCT
 Everyone who participates in this workshop is required to conform to the <a href="https://iclr.cc/public/CodeOfConduct">ICLR Code of Conduct</a>. 
 </p>
 
-<p class="text-center">
-  <a href="https://goo.gl/forms/KoUfO53Za3apOuOK2">
-    <button type="button" class="btn btn-info">Report a Code of Conduct Incident</button>
-  </a>
-</p>
+
 <hr/>
 
 
