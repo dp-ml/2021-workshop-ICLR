@@ -207,45 +207,68 @@ Graham Cormode (University of Warwick)
 <hr/>
 
 {% comment %}
-Organizers 
+Organizers and PC Members
 {% endcomment %}
 <h2 id="surveys">Organizers</h2>
-Gautam Kamath (University of Waterloo)
+
+Adam Smith (Boston University)
+
+Ramesh Raskar (MIT)
+
 Gauri Joshi (CMU)
-Ananda Theertha Suresh (Google)
-Reza Shokri (NUS) 
-Peter Kairouz (Google)
-Lalitha Sankar (ASU)
-Jalaj Upadhyay (Apple)
-Ling Liu (GaTech)
-Lin Zhong (Yale)
-Arya Mazumdar (UMass Amherst)  
-Konstantinos Chatzikokolakis (University of Athens)
-Vishnu Boddeti (Michigan State University)
-Mehdi Bennis (University of Oulu)
+
+Gautam Kamath (University of Waterloo)
+
 Clément Canonne (University of Sydney)
+
+Reza Shokri (NUS) 
+
+Peter Kairouz (Google)
+
+Ling Liu (GaTech)
+
+Lin Zhong (Yale)
+
+Arya Mazumdar (UMass Amherst)
+
+Konstantinos Chatzikokolakis (University of Athens)
+
+Vishnu Boddeti (Michigan State University)
+
+Mehdi Bennis (University of Oulu)
+
 Hamed Haddadi (Imperial College London)
+
 Waheed Bajwa (Rutgers University)
+
 Fragkiskos Koufogiannis (Raytheon)
+
 Supriyo Chakraborty (IBM T.J. Watson Research Center)
+
 Vivek Sharma (MIT, Harvard, KIT)
+
 Fatemehsadat Mireshghallah (PhD Student, UCSD)
+
 Praneeth Vepakomma (PhD Student, MIT)
+
 Ayush Chopra (PhD Student, MIT)
-Eugene Bagdasaryan (PhD Student, Cornell)
-Sameer Wagh (Post-doc researcher, UC Berkeley)
+
 Abhishek Singh (PhD Student, MIT)
 
+Ananda Theertha Suresh (Google)
 
+Jalaj Upadhyay (Apple)
+
+Eugene Bagdasaryan (PhD Student, Cornell)
+
+Sameer Wagh (Post-doc researcher, UC Berkeley)
 
 <hr/>
 
 
 
-{% comment %}
-PC Members
-{% endcomment %}
-<h2 id="surveys">PC Members</h2>
+
+
 
 <hr/>
 
