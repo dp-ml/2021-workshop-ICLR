@@ -285,6 +285,11 @@ SURVEYS - DO NOT EDIT SURVEY LINKS
 
 
 {% comment %}
+<h2 id="surveys">PC Members</h2>
+
+<hr/>
+
+{% comment %}
 SCHEDULE
 
 Show the workshop's schedule.
