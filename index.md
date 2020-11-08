@@ -5,7 +5,7 @@ layout: workshop      # DON'T CHANGE THIS.
 
 venue: "Distributed Privacy-Preserving Machine Learning Workshop (DPML)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "ICLR 2021"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
-humandate: "May 08, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
+humandate: "ICLR Workshop, May 08, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 
 
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
@@ -56,7 +56,7 @@ displayed if the 'eventbrite' field in the header is not set.
 {% endif %}
 
 
-<h2 id="general">General Information</h2>
+<h2 id="general">Scope</h2>
 
 {% comment %}
 INTRODUCTION
@@ -165,26 +165,10 @@ special instructions.
   <strong>Accessibility:</strong>
 {% if online == "false" %}
   We are committed to making this workshop
-  accessible to everybody. The workshop organizers have checked that:
-</p>
-<ul>
-  <li>The room is wheelchair / scooter accessible.</li>
-  <li>Accessible restrooms are available.</li>
-</ul>
-<p>
-  Materials will be provided in advance of the workshop and
-  large-print handouts are available if needed by notifying the
-  organizers in advance.  If we can help making learning easier for
-  you (e.g. sign-language interpreters, lactation facilities) please
-  get in touch (using contact details below) and we will
-  attempt to provide them.
-</p>
-{% else %}
-  We are dedicated to providing a positive and accessible learning environment for all. Please
-  notify the instructors in advance of the workshop if you require any accommodations or if there is
+  accessible to everybody. Please
+  notify the organizers in advance of the workshop if you require any accommodations or if there is
   anything we can do to make this workshop more accessible to you.
 </p>
-{% endif %}
 
 {% comment %}
 CONTACT EMAIL ADDRESS
