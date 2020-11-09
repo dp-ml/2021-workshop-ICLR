@@ -74,7 +74,7 @@ the pitch.
 
 The focus of this workshop is to bring together researchers from industry and academia that focus on both distributed and private machine learning. These topics are of increasingly large commercial and policy interest. It is therefore important to build a community for this research area, which collaborating researchers that share insights, code, data, benchmarks, training pipelines, etc and together aim to advance distributed and private machine learning.The scope of this workshops includes, but is not limited to:
 
-<li> Special track: privacy of ML and data analytics in pandemic </li>
+<li> Special track: privacy of ML and data in COVID-19 era </li>
 <li> Distributed Machine Learning </li>
 <li> Federated Learning and Split Learning</li>
 <li> Differential Privacy in Deep Learning</li>
@@ -83,15 +83,15 @@ The focus of this workshop is to bring together researchers from industry and ac
 <li> Model and data fingerprinting/watermarking methods</li>
 <li> Non i.i.d, sequential and online distributed learning</li>
 <li> Differential privacy and other statistical notions of privacy: theory, applications, and implementations</li>
-<li> Secure multi-party computation techniques for ML</li>
-<li> Learning on encrypted data</li>
-<li> Hardware-based approaches to privacy-preserving ML</li>
+<li> Secure multi-party computation (Secure MPC) methods for ML</li>
+<li> Homomorphic encryption for ML</li>
+<li> Hardware-based techniques to privacy-preserving ML</li>
 <li> Trade-offs between privacy and utility</li>
-<li> Empirical and theoretical comparisons between different notions of privacy</li>
+<li> Correspondence between different notions of privacy</li>
 <li> Policy and Compliance for Data Privacy</li>
 <li> Privacy applications in the real world ( including but not limited to Autonomous Systems, Social Networks)</li>
-<li> Interplay between privacy and adversarial robustness in machine learning</li>
-<li> Relations between privacy, fairness and transparency</li>
+<li> IPrivacy, Fairness, Accountability and Transparency (F.A.T) in Machine Learning</li>
+
 
 
 
