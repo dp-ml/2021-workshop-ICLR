@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 # More detailed instructions (including how to fill these variables for an
 # online workshop) are available at
 
-venue: "Distributed Privacy-Preserving Machine Learning Workshop (DPML)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
+venue: "Distributed and Private Machine Learning (DPML)"        # brief name of the institution that hosts the workshop without address (e.g., "Euphoric State University")
 address: "ICLR 2021"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria"), videoconferencing URL, or 'online'
 humandate: "ICLR Workshop, May 08, 2021"    # human-readable dates for the workshop (e.g., "Feb 17-18, 2020")
 
