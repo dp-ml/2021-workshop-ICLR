@@ -215,6 +215,8 @@ Adam Smith (Boston University)
 
 Ramesh Raskar (MIT)
 
+Jayashree Kalpathy-Cramer (Harvard)
+
 Gauri Joshi (CMU)
 
 Gautam Kamath (University of Waterloo)
