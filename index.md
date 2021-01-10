@@ -90,7 +90,7 @@ The focus of this workshop is to bring together researchers from industry and ac
 <li> Correspondence between different notions of privacy</li>
 <li> Policy and Compliance for Data Privacy</li>
 <li> Privacy applications in the real world ( including but not limited to Autonomous Systems, Social Networks)</li>
-<li> IPrivacy, Fairness, Accountability and Transparency (F.A.T) in Machine Learning</li>
+<li> Privacy, Fairness, Accountability and Transparency (F.A.T) in Machine Learning</li>
 
 
 
