@@ -215,15 +215,30 @@ Adam Smith (Boston University)
 
 Ramesh Raskar (MIT)
 
-Jayashree Kalpathy-Cramer (Harvard)
+Vivek Sharma (MIT, Harvard, KIT)
 
-Gauri Joshi (CMU)
+Fatemehsadat Mireshghallah (PhD Student, UCSD)
+
+Praneeth Vepakomma (PhD Student, MIT)
+
+Ayush Chopra (PhD Student, MIT)
+
+Abhishek Singh (PhD Student, MIT)
+
+Jayashree Kalpathy-Cramer (Harvard)
 
 Gautam Kamath (University of Waterloo)
 
-Clément Canonne (University of Sydney)
-
 Reza Shokri (NUS) 
+
+{% comment %}
+Organizers and PC Members
+{% endcomment %}
+<h2 id="surveys">PC Members</h2>
+
+Gauri Joshi (CMU)
+
+Clément Canonne (University of Sydney)
 
 Peter Kairouz (Google)
 
@@ -246,16 +261,6 @@ Waheed Bajwa (Rutgers University)
 Fragkiskos Koufogiannis (Raytheon)
 
 Supriyo Chakraborty (IBM T.J. Watson Research Center)
-
-Vivek Sharma (MIT, Harvard, KIT)
-
-Fatemehsadat Mireshghallah (PhD Student, UCSD)
-
-Praneeth Vepakomma (PhD Student, MIT)
-
-Ayush Chopra (PhD Student, MIT)
-
-Abhishek Singh (PhD Student, MIT)
 
 Ananda Theertha Suresh (Google)
 
