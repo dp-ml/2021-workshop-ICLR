@@ -215,6 +215,12 @@ Adam Smith (Boston University)
 
 Ramesh Raskar (MIT)
 
+Jayashree Kalpathy-Cramer (Harvard)
+
+Gautam Kamath (University of Waterloo)
+
+Reza Shokri (NUS) 
+
 Vivek Sharma (MIT, Harvard, KIT)
 
 Fatemehsadat Mireshghallah (PhD Student, UCSD)
@@ -225,11 +231,6 @@ Ayush Chopra (PhD Student, MIT)
 
 Abhishek Singh (PhD Student, MIT)
 
-Jayashree Kalpathy-Cramer (Harvard)
-
-Gautam Kamath (University of Waterloo)
-
-Reza Shokri (NUS) 
 
 {% comment %}
 Organizers and PC Members
