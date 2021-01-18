@@ -219,7 +219,9 @@ Jayashree Kalpathy-Cramer (Harvard)
 
 Gautam Kamath (University of Waterloo)
 
-Reza Shokri (NUS) 
+Reza Shokri (NUS)
+
+Hamed Haddadi (Imperial College London)
 
 Vivek Sharma (MIT, Harvard, KIT)
 
@@ -254,8 +256,6 @@ Konstantinos Chatzikokolakis (University of Athens)
 Vishnu Boddeti (Michigan State University)
 
 Mehdi Bennis (University of Oulu)
-
-Hamed Haddadi (Imperial College London)
 
 Waheed Bajwa (Rutgers University)
 
