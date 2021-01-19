@@ -195,7 +195,11 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 {% endif %}
 
 <h3 id="general">Paper Submission</h3>
-The deadline for submitting papers is February 25th, 2021. The paper format should be the same is ICLR 2021 format, and we will soon share the link for the submission website. 
+<p>
+The deadline for submitting papers is February 25th, 2021. The paper format should be the same is ICLR 2021 format, and we will soon share the link for the submission website. If you have any questions, please send an email to fatemeh@ucsd.edu.
+</p>
+<hr/>
+
 
 <h2 id="surveys">Invited Speakers</h2>
 
