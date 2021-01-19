@@ -194,6 +194,9 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
+<h3 id="general">Paper Submission</h3>
+The deadline for submitting papers is February 25th, 2021. The paper format should be the same is ICLR 2021 format, and we will soon share the link for the submission website. 
+
 <h2 id="surveys">Invited Speakers</h2>
 
 David Evans (University of Virginia)
