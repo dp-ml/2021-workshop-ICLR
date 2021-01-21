@@ -72,7 +72,7 @@ the pitch.
 {% include lc/intro.html %}
 {% endif %}
 
-The focus of this workshop is to bring together researchers from industry and academia that focus on both distributed and private machine learning. These topics are of increasingly large commercial and policy interest. It is therefore important to build a community for this research area, which collaborating researchers that share insights, code, data, benchmarks, training pipelines, etc and together aim to advance distributed and private machine learning.The scope of this workshops includes, but is not limited to:
+The focus of this workshop is to bring together researchers from industry and academia that focus on both distributed and private machine learning. These topics are of increasingly large commercial and policy interest. It is therefore important to build a community for this research area, which collaborating researchers that share insights, code, data, benchmarks, training pipelines, etc and together aim to advance distributed and private machine learning.The scope of this workshop includes, but is not limited to:
 
 <li> Special track: privacy of ML and data in COVID-19 era </li>
 <li> Distributed Machine Learning </li>
