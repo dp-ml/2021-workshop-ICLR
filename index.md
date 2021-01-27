@@ -199,7 +199,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 The workshop will include contributed papers. All accepted papers will be allocated either a virtual poster presentation, or a virtual talk slot. There are no proceedings (and concurrent/dual submissions are allowed), but will optionally link the papers and talk recordings on the workshop website. 
 
 
-The papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and be formatted using the ICLR submission template. Papers should be anonymized. Submission deadline is <strong>February 25th</strong>, 2021 and you can submit your work through this link: https://cmt3.research.microsoft.com/DPML2021. 
+The papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and be formatted using the ICLR submission template. Papers should be anonymized. Submission deadline is <strong>February 25th</strong>, 2021 and you can submit your work using [this link] (https://cmt3.research.microsoft.com/DPML2021). 
 
 
 We invite submissions in three tracks:
@@ -209,6 +209,12 @@ We invite submissions in three tracks:
 - <strong>Special track</strong>: Privacy of ML and data in COVID-19 era
 
 - <strong>Encore track</strong>: Papers that have already been published at other venues.
+
+<hr/>
+
+<h2 id="general">Call for Reviewers</h2>
+
+If you are interested in becoming a reviewer for our workshop, please apply using [this link](https://forms.gle/bVX4ihUiNgG66psP6). 
 
 <hr/>
 
