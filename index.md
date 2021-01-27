@@ -194,9 +194,17 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 <hr/>
 {% endif %}
 
-<h3 id="general">Paper Submission</h3>
+<h2 id="general">Call for Papers</h2>
 <p>
-The deadline for submitting papers is February 25th, 2021. The paper format should be the same is ICLR 2021 format, and we will soon share the link for the submission website. 
+The workshop will include contributed papers. All accepted papers will be allocated either a virtual poster presentation, or a virtual talk slot. There are no proceedings (and concurrent/dual submissions are allowed), but will optionally link the papers and talk recordings on the workshop website. 
+
+The papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and be formatted using the ICLR submission template. Papers should be anonymized. Submission deadline is February 25th, 2021 and we will use the CMT platform (link will be posted soon). 
+
+We invite submissions in three tracks:
+
+* Regular track: Full papers, works-in-progress, position papers, and case studies. We expect that these submissions introduce novel ideas or results.
+* Special track: Privacy of ML and data in COVID-19 era
+* Encore track: Papers that have already been published at other venues.
 </p>
 <hr/>
 
