@@ -195,7 +195,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 {% endif %}
 
 <h2 id="general">Call for Papers</h2>
-<p>
+
 The workshop will include contributed papers. All accepted papers will be allocated either a virtual poster presentation, or a virtual talk slot. There are no proceedings (and concurrent/dual submissions are allowed), but will optionally link the papers and talk recordings on the workshop website. 
 
 
@@ -209,7 +209,7 @@ We invite submissions in three tracks:
 - <strong>Special track</strong>: Privacy of ML and data in COVID-19 era
 
 - <strong>Encore track</strong>: Papers that have already been published at other venues.
-</p>
+
 <hr/>
 
 
