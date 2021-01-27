@@ -199,7 +199,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 The workshop will include contributed papers. All accepted papers will be allocated either a virtual poster presentation, or a virtual talk slot. There are no proceedings (and concurrent/dual submissions are allowed), but will optionally link the papers and talk recordings on the workshop website. 
 
 
-The papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and be formatted using the ICLR submission template. Papers should be anonymized. Submission deadline is <strong>February 25th</strong>, 2021 and we will use the CMT platform (link will be posted soon). 
+The papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and be formatted using the ICLR submission template. Papers should be anonymized. Submission deadline is <strong>February 25th</strong>, 2021 and you can submit your work through this link: https://cmt3.research.microsoft.com/DPML2021. 
 
 
 We invite submissions in three tracks:
