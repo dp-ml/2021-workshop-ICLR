@@ -310,7 +310,7 @@ Jinyuan Jia (Duke University)
 
 Ranya Aloufi (Imperial College London)
 
-Kritika Prakash (IIT Hyderabad/ OpenMined)
+Kritika Prakash (IIIT Hyderabad/ OpenMined)
 
 Gharib Gharibi (TripleBlind/ University of Missouri)
 
