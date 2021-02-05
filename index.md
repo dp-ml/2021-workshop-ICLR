@@ -296,6 +296,34 @@ Eugene Bagdasaryan (PhD Student, Cornell)
 
 Sameer Wagh (Post-doc researcher, UC Berkeley)
 
+Abdullatif Mohammed Albaseer (Hamad Bin Khalifa University)
+
+Krystal A Maughan (University of Vermont)
+
+Adam Hall (Edinburgh Napier University/ OpenMined)
+
+Théo Ryffel (ENS - INRIA - CNRS)
+
+Akanksha Atrey (U Mass)
+
+Jinyuan Jia (Duke University)
+
+Ranya Aloufi (Imperial College London)
+
+Kritika Prakash (IIT Hyderabad/ OpenMined)
+
+Gharib Gharibi (TripleBlind/ University of Missouri)
+
+Congzheng Song (Cornell)
+
+Abinav Ravi Venkatakrishnan (Deepc gmbh/ OpenMined)
+
+Mohammadkazem Taram (UCSD)
+
+Benjamin Zhao (UNSW)
+
+Jianfeng Chi (University of Virginia)
+
 <hr/>
 
 
