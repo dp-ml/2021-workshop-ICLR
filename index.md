@@ -264,7 +264,7 @@ Organizers and PC Members
 {% endcomment %}
 <h2 id="surveys">PC Members</h2>
 
-Mi Zhang (Michigan State)
+Mi Zhang (Michigan State University)
 
 Gauri Joshi (CMU)
 
