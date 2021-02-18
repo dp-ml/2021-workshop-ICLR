@@ -264,13 +264,13 @@ Organizers and PC Members
 {% endcomment %}
 <h2 id="surveys">PC Members</h2>
 
+Mi Zhang (Michigan State)
+
 Gauri Joshi (CMU)
 
 Clément Canonne (University of Sydney)
 
 Peter Kairouz (Google)
-
-Mi Zhang (Michigan State)
 
 Ling Liu (GaTech)
 
