@@ -270,6 +270,8 @@ Clément Canonne (University of Sydney)
 
 Peter Kairouz (Google)
 
+Mi Zhang (Michigan State)
+
 Ling Liu (GaTech)
 
 Lin Zhong (Yale)
@@ -335,6 +337,8 @@ Mohammad Malekzadeh (Imperial College London)
 Mohammad Naseri (University College London)
 
 Yongjun Zhao (Nanyang Technological University)
+
+Stefanos Laskaridis (Samsung AI Center)
 
 <hr/>
 
