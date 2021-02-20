@@ -340,6 +340,18 @@ Yongjun Zhao (Nanyang Technological University)
 
 Stefanos Laskaridis (Samsung AI Center)
 
+Xuechen Li (Stanford University)
+
+Roozbeh Yousefzadeh (Yale University)
+
+Sahib Singh (Ford R&D/OpenMined)
+
+Hanieh Hashemi (University of Southern California)
+
+Saeedeh Parsaeefard (University of Toronto)
+
+Kleomenis Katevas (Telefonica)
+
 <hr/>
 
 
