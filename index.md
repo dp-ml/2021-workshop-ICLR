@@ -199,7 +199,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 The workshop will include contributed papers. All accepted papers will be allocated either a virtual poster presentation, or a virtual talk slot. There are no proceedings (and concurrent/dual submissions are allowed), but will optionally link the papers and talk recordings on the workshop website. 
 
 
-The papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and be formatted using the ICLR submission template. Papers should be anonymized. Submission deadline is end of the day, <strong>February 25th</strong> AEO, 2021 and you can submit your work using [this link](https://cmt3.research.microsoft.com/DPML2021). 
+The papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and be formatted using the ICLR submission template. Papers should be anonymized. Submission deadline is <b>extended to end of the day, <strong>February 29th</strong> AEO</b>, 2021 and you can submit your work using [this link](https://cmt3.research.microsoft.com/DPML2021). 
 
 
 We invite submissions in three tracks:
