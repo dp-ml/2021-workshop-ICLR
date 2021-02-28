@@ -199,7 +199,7 @@ We will use this <a href="{{ page.collaborative_notes }}">collaborative document
 The workshop will include contributed papers. All accepted papers will be allocated either a virtual poster presentation, or a virtual talk slot. There are no proceedings (and concurrent/dual submissions are allowed), but will optionally link the papers and talk recordings on the workshop website. 
 
 
-The papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and be formatted using the ICLR submission template. Papers should be anonymized. Submission deadline is <b>extended to end of the day, <strong>March 1st</strong> AEO</b>, 2021 and you can submit your work using [this link](https://cmt3.research.microsoft.com/DPML2021). 
+The papers should have up to 4 pages (excluding references, acknowledgements, or appendices), and be formatted using the ICLR submission template. Papers should be anonymized. Submission deadline is <b>extended to end of the day, <strong>March 1st</strong> AOE</b>, 2021 and you can submit your work using [this link](https://cmt3.research.microsoft.com/DPML2021). 
 
 
 We invite submissions in three tracks:
@@ -290,6 +290,14 @@ Fragkiskos Koufogiannis (Raytheon)
 
 Supriyo Chakraborty (IBM T.J. Watson Research Center)
 
+Lei Yu (IBM T.J. Watson Research Center
+
+Keke Chen (Marquette University)
+
+Yuzhe Tang (Syracuse University )
+
+Yuan Hong (Illinois Institute of Technology)
+
 Ananda Theertha Suresh (Google)
 
 Jalaj Upadhyay (Apple)
@@ -297,6 +305,10 @@ Jalaj Upadhyay (Apple)
 Eugene Bagdasaryan (PhD Student, Cornell)
 
 Sameer Wagh (Post-doc researcher, UC Berkeley)
+
+Matthew Jagielski (Northeastern University)
+
+Congzheng Song (Cornell)
 
 Abdullatif Mohammed Albaseer (Hamad Bin Khalifa University)
 
@@ -315,8 +327,6 @@ Ranya Aloufi (Imperial College London)
 Kritika Prakash (IIIT Hyderabad/ OpenMined)
 
 Gharib Gharibi (TripleBlind/ University of Missouri)
-
-Congzheng Song (Cornell)
 
 Abinav Ravi Venkatakrishnan (Deepc gmbh/ OpenMined)
 
@@ -350,7 +360,21 @@ Hanieh Hashemi (University of Southern California)
 
 Saeedeh Parsaeefard (University of Toronto)
 
+Stylianos Venieris (Samsung AI)
+
+Gautham Krishna Gudur (Ericsson R&D)
+
 Kleomenis Katevas (Telefonica)
+
+Thomas Chen (The Academy for Mathematics, Science, and Engineering)
+
+Wenqi Wie (Georgia Tech)
+
+Muhammad Habib ur Rehman (KCL)
+
+Vandy Tombs (Oak Ridge National Laboratory)
+
+Stacey Truex (Georgia Tech)
 
 <hr/>
 
