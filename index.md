@@ -302,6 +302,8 @@ Ananda Theertha Suresh (Google)
 
 Jalaj Upadhyay (Apple)
 
+Antti Koskela (University of Helsinki)
+
 Eugene Bagdasaryan (PhD Student, Cornell)
 
 Sameer Wagh (Post-doc researcher, UC Berkeley)
