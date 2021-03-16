@@ -405,7 +405,7 @@ of code below the Schedule `<h2>` header below with
 `{% include custom-schedule.html %}`.
 {% endcomment %}
 
-<h2 id="schedule">Schedule (PST)</h2>
+<h2 id="schedule">Schedule (PDT)</h2>
 
 {% if site.carpentry == "swc" %}
 {% include swc/schedule.html %}
