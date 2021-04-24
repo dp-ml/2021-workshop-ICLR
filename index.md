@@ -221,12 +221,16 @@ If you are interested in becoming a reviewer for our workshop, please apply usin
 
 <h2 id="surveys">Invited Speakers</h2>
 
+<img src="https://s3.amazonaws.com/uva-3cavaliers/derivatives/headshot/X10ceVxWSLNUorxpVp5K0JxTDGClveHGKZom4O5v.jpeg" style="width:200px;height:200px;">
 David Evans (University of Virginia)
 
+<img src="http://sankar.engineering.asu.edu/wp-content/uploads/2017/01/LS_Photo_Dec2015.png" style="width:200px;height:200px;">
 Lalitha Sankar (Associate Prof. ASU, Confirmed)
 
+<img src="https://www.ece.cmu.edu/directory/images/faculty/J/gauri-joshi-800x8001.png" style="width:200px;height:200px;">
 Gauri Joshi (Carnegie Mellon University)
 
+<img src="https://warwick.ac.uk/insite/news/intnews2/graham_cormode_acm/250.jpg" style="width:200px;height:200px;">
 Graham Cormode (University of Warwick)
 
 <hr/>
