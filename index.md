@@ -225,7 +225,7 @@ If you are interested in becoming a reviewer for our workshop, please apply usin
 David Evans (University of Virginia)
 
 <img src="http://sankar.engineering.asu.edu/wp-content/uploads/2017/01/LS_Photo_Dec2015.png" style="width:200px;height:200px;">
-Lalitha Sankar (Associate Prof. ASU, Confirmed)
+Lalitha Sankar (Arizona State University)
 
 <img src="https://www.ece.cmu.edu/directory/images/faculty/J/gauri-joshi-800x8001.png" style="width:200px;height:200px;">
 Gauri Joshi (Carnegie Mellon University)
