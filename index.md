@@ -223,17 +223,19 @@ If you are interested in becoming a reviewer for our workshop, please apply usin
 
 <img style="float: left;" src="https://s3.amazonaws.com/uva-3cavaliers/derivatives/headshot/X10ceVxWSLNUorxpVp5K0JxTDGClveHGKZom4O5v.jpeg" style="width:200px;height:200px;">
 David Evans (University of Virginia)
-Bio: David Evans (http://www.cs.virginia.edu/evans/) is a Professor of Computer Science at the University of Virginia. His research focuses on privacy and security on the web and empowering individuals to control how their data is used and shared. He won the Outstanding Faculty Award from the State Council of Higher Education for Virginia and was Program Co-Chair for the ACM Conference on Computer and Communications Security 2017 and IEEE Symposium on Security and Privacy 2009 and 2010.
+Biography: David Evans (http://www.cs.virginia.edu/evans/) is a Professor of Computer Science at the University of Virginia. His research focuses on privacy and security on the web and empowering individuals to control how their data is used and shared. He won the Outstanding Faculty Award from the State Council of Higher Education for Virginia and was Program Co-Chair for the ACM Conference on Computer and Communications Security 2017 and IEEE Symposium on Security and Privacy 2009 and 2010.
 
 <img src="http://sankar.engineering.asu.edu/wp-content/uploads/2017/01/LS_Photo_Dec2015.png" style="width:200px;height:200px;">
 Lalitha Sankar (Arizona State University)
+Biography: Lalitha Sankar is an Associate Professor in the School of Electrical, Computer, and Energy Engineering at Arizona State University. She was an Assistant Professor at ASU from 2012 to 2016. Prior to that she was a Research Scholar in the Department of Electrical Engineering at Princeton University working with H. Vincent Poor. She was also a Science and Technology Teaching and Research Fellow supported by the Council on Science and Technology at Princeton University.
 
 <img src="https://www.ece.cmu.edu/directory/images/faculty/J/gauri-joshi-800x8001.png" style="width:200px;height:200px;">
 Gauri Joshi (Carnegie Mellon University)
+Biography: Gauri Joshi is an Assistant Professor at ECE Department at CMU. Her interest is in stochastic modeling and analysis that provides sharp insights into the design of cloud and machine learning infrastructure. Her group is currently focusing on Distributed Machine Learning, Erasure Coding for Large-scale Parallel Computing, Multi-armed Bandits and Bayesian Optimization. Her research group is affiliated with the Parallel Data Lab (PDL) at Carnegie Mellon University. Before joining CMU in Fall 2017, She was a Research Staff Member at the IBM T. J. Watson Research Center. She completed my Ph.D. from MIT EECS in 2016 and received my B.Tech and M. Tech in Electrical Engineering from IIT Bombay in 2010.
 
 <img src="https://warwick.ac.uk/insite/news/intnews2/graham_cormode_acm/250.jpg" style="width:200px;height:200px;">
 Graham Cormode (University of Warwick)
-
+Biography: Graham Cormode is Professor at the department of Computer Science. His interests are in all aspects of the "data lifecycle", from data collection and cleaning, through mining and analytics, and private data release. From 2004-06, he worked at Bell Laboratories in the Internet Management Research Department. From 2006-2013, he was a researcher at AT&T Labs-Research. Between 2002 and 2004, he was a postdoctoral fellow at DIMACS, the Center for Discrete Mathematics and Computer Science. He completed his PhD at the Department of Computer Science at the University of Warwick, UK in 2002. He spent a year of his PhD studying in Cleveland, Ohio at Case Western Reserve University with the Electrical Engineering and Computer Science Department, and Summer 2000 at AT&T Shannon research labs.
 <hr/>
 
 {% comment %}
