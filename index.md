@@ -223,6 +223,7 @@ If you are interested in becoming a reviewer for our workshop, please apply usin
 
 <img style="float: left;" src="https://s3.amazonaws.com/uva-3cavaliers/derivatives/headshot/X10ceVxWSLNUorxpVp5K0JxTDGClveHGKZom4O5v.jpeg" style="width:200px;height:200px;">
 Speaker: David Evans (University of Virginia), Title: Inference Risks for Machine Learning
+<br />
 Biography: David Evans is a Professor of Computer Science at the University of
 Virginia where he leads a research group focusing on security and
 privacy (https://uvasrg.github.io). He won the Outstanding Faculty
@@ -238,14 +239,16 @@ co-author of a book on secure multi-party computation
 
 <img src="https://webapp4.asu.edu/photo-ws/directory_photo/lsankar?blankImage=false&size=medium" style="width:200px;height:200px;">
 Speaker: Lalitha Sankar (Arizona State University), Title: A Better Bound Gives a Hundred Rounds: Enhanced Privacy Guarantees via f-Divergences
+<br />
 Biography: Lalitha Sankar is an Associate Professor in the School of Electrical, Computer, and Energy Engineering at Arizona State University. She received her doctorate from  Rutgers University, her masters from the University of Maryland and her Bachelors degree from the Indian Institute of Technology, Bombay. Her research is at the intersection of information theory and learning theory and its applications to identifying meaningful metrics for information privacy and algorithmic fairness. She received the NSF CAREER award in 2014 and currently leads an NSF-and Google-funded effort on using learning techniques to assess COVID-19 exposure risk in a secure and privacy-preserving manner.
 
 <img src="https://www.ece.cmu.edu/directory/images/faculty/J/gauri-joshi-800x8001.png" style="width:200px;height:200px;">
-Gauri Joshi (Carnegie Mellon University), Title: Biased Client Selection for Improved Convergence of Federated Learning
+Speaker: Gauri Joshi (Carnegie Mellon University), Title: Biased Client Selection for Improved Convergence of Federated Learning
+<br />
 Biography: Gauri Joshi is an assistant professor in the ECE department at Carnegie Mellon University since September 2017. Previously, she worked as a Research Staff Member at IBM T. J. Watson Research Center. Gauri completed her Ph.D. from MIT EECS in June 2016, advised by Prof. Gregory Wornell. She received her B.Tech and M.Tech in Electrical Engineering from the Indian Institute of Technology (IIT) Bombay in 2010. Her awards and honors include the NSF CAREER Award (2021), ACM Sigmetrics Best Paper Award (2020), NSF CRII Award (2018), IBM Faculty Research Award (2017), Best Thesis Prize in Computer science at MIT (2012), and Institute Gold Medal of IIT Bombay (2010).
 
 <img src="https://warwick.ac.uk/insite/news/intnews2/graham_cormode_acm/250.jpg" style="width:200px;height:200px;">
-Graham Cormode (University of Warwick), Title: Frequency Estimation in Local and Multiparty Differential Privacy
+Speaker: Graham Cormode (University of Warwick), Title: Frequency Estimation in Local and Multiparty Differential Privacy
 <br />
 Biography: Graham Cormode works on topics in privacy and data summarization. He is
 a Fellow of the ACM, and recipient of the 2017 Adams Prize for
