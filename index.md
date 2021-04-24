@@ -221,7 +221,7 @@ If you are interested in becoming a reviewer for our workshop, please apply usin
 
 <h2 id="surveys">Invited Speakers</h2>
 
-<img src="https://s3.amazonaws.com/uva-3cavaliers/derivatives/headshot/X10ceVxWSLNUorxpVp5K0JxTDGClveHGKZom4O5v.jpeg" style="width:200px;height:200px;">
+<img style="float: left;" src="https://s3.amazonaws.com/uva-3cavaliers/derivatives/headshot/X10ceVxWSLNUorxpVp5K0JxTDGClveHGKZom4O5v.jpeg" style="width:200px;height:200px;">
 David Evans (University of Virginia)
 Bio: David Evans (http://www.cs.virginia.edu/evans/) is a Professor of Computer Science at the University of Virginia. His research focuses on privacy and security on the web and empowering individuals to control how their data is used and shared. He won the Outstanding Faculty Award from the State Council of Higher Education for Virginia and was Program Co-Chair for the ACM Conference on Computer and Communications Security 2017 and IEEE Symposium on Security and Privacy 2009 and 2010.
 
