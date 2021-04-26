@@ -445,5 +445,9 @@ Stacey Truex (Georgia Tech)
 
 
 
+<h2 id="papers">Accepted Papers</h2>
+
+You can find the acepted papers here.
+<hr/>
 
 
