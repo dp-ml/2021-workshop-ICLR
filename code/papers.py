@@ -7,12 +7,15 @@ index = form.index
 condition = lambda pid :form['Please provide your paper ID.'] == pid
 for i , pid in enumerate (papers['Paper ID']):
     if (condition(pid).any()):
+        #print("here,pid ", pid)
         index_c = index[condition(pid)]
-        title = papers['Paper Title'][index_c[0]]
+        #print(index_c)
+        #print(condition(pid))
+        title = papers['Paper Title'][i]
         authors = form['Please provide the author names in the order you want them to appear on the website.'][index_c[0]]
         print("<tr> <td> <b>{}</b>(<a href=\"files/{}.pdf\">pdf</a>)</td> <td>{}</td> </tr>".format(title, pid, authors))
     else:
-
+        #print(pid)
         title = papers['Paper Title'][i]
         authors = papers['Author Names'][i]
         print("<tr> <td> <b>{}</b>(<a href=\"files/{}.pdf\">pdf</a>)</td> <td>{}</td> </tr>".format(title, pid, authors))
