@@ -177,7 +177,7 @@ ATTENDANCE
 <h2 id="attendance">Attendance</h2>
 
 <p>
-  You need to be registered at ICLR 2021, in order to be able to attend the workshop. The workshop is hosted on Zoom, except for the Poster session which will be held on Gather town, which you can join through <a href="https://eventhosts.gather.town/app/6VP8iLAgUO3EdXsx/dpml-iclr">this link</a>. Offline and online Q&A will be taking place on Rocket chat. You can find the links to all of these platforms on our ICLR workshop page <a href="https://iclr.cc/virtual/2021/workshop/2148">here</a> (You should be logged into your ICLR account to be able see this).
+  You need to be registered at ICLR 2021, in order to be able to attend the workshop. The workshop is hosted on Zoom, except for the Poster session which will be held on Gather town, which you can join through <b><a href="https://eventhosts.gather.town/app/6VP8iLAgUO3EdXsx/dpml-iclr">this link</a></b>. Offline and online Q&A will be taking place on Rocket chat. You can find the links to all of these platforms on our ICLR workshop page <a href="https://iclr.cc/virtual/2021/workshop/2148">here</a> (You should be logged into your ICLR account to be able see this).
   
 
 </p>
