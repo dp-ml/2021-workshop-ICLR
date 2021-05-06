@@ -182,6 +182,7 @@ ATTENDANCE
 
 </p>
 
+<b>Gather town:</b> Once you have joined our town, you can visit the posters by going to "Posters 1" and "Posters 2" rooms in the town. A list of all the posters and where they are can be found <a href="https://dp-ml.github.io/2021-workshop-ICLR/#papers">here</a>.
 
 <hr/>
 
