@@ -473,3 +473,10 @@ Stacey Truex (Georgia Tech)
 <hr/>
 
 
+<h2 id="best-paper">Best Paper Award</h2>
+The winners are:
+
+<b>Federated Learning with Taskonomy</b> by Hadi Jamali-Rad, Mohammad Abdizadeh, Attila Szabo
+
+<b>Leveraging Public Data for Practical Private Query Release</b> by Terrance Liu, Giuseppe Vietri, Thomas Steinke, Jonathan Ullman, Steven Wu
+<hr/>
